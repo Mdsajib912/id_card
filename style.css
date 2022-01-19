@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.mainbox{
+	width: 600px;
+	min-height: 400px;
+	margin: auto;
+	background: yellow;
+	border: 1px solid black;
+}
+.box1 p{
+	width: 100px;
+	background: white;
+	border: 2px solid;
+	margin: auto;
+	text-align: center;
+	padding: 10px 0px;
+	margin-top: 10px;	
+}
+.roundbox{
+	width: 250px;
+	height: 250px;
+	background: red;
+	border-radius: 50%;
+	margin: auto;
+	margin-top: 25px;
+}
+.content{
+	width: 90%;
+	height: 250px;
+	border: 1px solid hidden;
+	margin: auto;
+	margin-top: 25 px;
+}
+.content p{
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 50px;
+
+
+}
+.box2{
+	width: 90%;
+	height: 70px;
+	background: blue;
+	margin: auto;
+	margin-top: 5px;
+	 margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
